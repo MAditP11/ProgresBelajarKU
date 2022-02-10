@@ -1,9 +1,18 @@
-# ProgresBelajarKU
-Ini adalah repositori yang akan menjadi bagian untuk memantau progres sampai mana progresku dalam belajar pemrograman khususnya pemrograman web
+# PengalamanBelajar
 
-*since 10 February 2022*
+Repository Ini Berisi Pengalaman Belajar di Dicoding
 
-15 Juni 2021
+
+**14 Juni 2021**  
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
+
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+
+
+**15 Juni 2021**  
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
